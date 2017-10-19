@@ -6,7 +6,7 @@ body {
 }
 
 h1 {
-    color: maroon;
+    color: #742f37;
     font-family: georgia;
     text-align: center;
     font-size: 75px;
@@ -18,17 +18,17 @@ img [
 ]
 
 h2 {
-    color: maroon;
+    color: #742f37;
     font-family: georgia;
 } 
 
 h4 {
-    color: maroon;
+    color: #742f37;
     font-family: georgia;
 
 } 
 p {
-	color: maroon;
+	color: #742f37;
 	float: left;
     font-size: 30px;
 }
